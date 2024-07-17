@@ -81,4 +81,21 @@
   - Cafeteria y Restaurante El Pacífico (24 highly satisfactory ratings)
   - La Cantina Restaurante (28 highly satisfied ratings)
   - Restaurant la Chalita (20 high satisfaction ratings)
+ 
+## Visual Insights
+
+![Screenshot 1](Screenshot1.png)
+*Figure 1: Home*
+
+![Screenshot 2](Screenshot2.png)
+*Figure 2: Dining*
+
+![Screenshot 3](Screenshot3.png)
+*Figure 3: Hospitality*
+
+![Screenshot 4](Screenshot4.png)
+*Figure 4: Behaviour*
+
+![Screenshot 5](Screenshot5.png)
+*Figure 5: Review*
 
