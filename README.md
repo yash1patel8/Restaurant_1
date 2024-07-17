@@ -85,18 +85,18 @@
  
 ## Visual Insights
 
-![Screenshot 1](Screenshot1.png)
+![Screenshot 1](Screenshot/Screenshot1.png)
 *Figure 1: Home*
 
-![Screenshot 2](Screenshot2.png)
+![Screenshot 2](Screenshot/Screenshot2.png)
 *Figure 2: Dining*
 
-![Screenshot 3](Screenshot3.png)
+![Screenshot 3](Screenshot/Screenshot3.png)
 *Figure 3: Hospitality*
 
-![Screenshot 4](Screenshot4.png)
+![Screenshot 4](Screenshot/Screenshot4.png)
 *Figure 4: Behaviour*
 
-![Screenshot 5](Screenshot5.png)
+![Screenshot 5](Screenshot/Screenshot5.png)
 *Figure 5: Review*
 
